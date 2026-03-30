@@ -1,0 +1,12 @@
+# ninja log v6
+23	2045	7882252609597519	Itog_autogen/timestamp	778891e94dcf7aa8
+23	2045	7882252609597519	Itog_autogen/mocs_compilation.cpp	778891e94dcf7aa8
+23	2045	7882252609597519	C:/Users/danya/Desktop/Itog/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Itog_autogen/timestamp	778891e94dcf7aa8
+23	2045	7882252609597519	C:/Users/danya/Desktop/Itog/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Itog_autogen/mocs_compilation.cpp	778891e94dcf7aa8
+2080	6681	7882252612048887	CMakeFiles/Itog.dir/employee.cpp.obj	d546d209e90509d2
+2087	9899	7882252612205138	CMakeFiles/Itog.dir/database.cpp.obj	3f0122a7b14dceeb
+2094	9993	7882252612205138	CMakeFiles/Itog.dir/input_dialog.cpp.obj	edf745a00359755e
+2067	11255	7882252612048887	CMakeFiles/Itog.dir/main.cpp.obj	483d55e9d18d191d
+2060	11935	7882252611892625	CMakeFiles/Itog.dir/Itog_autogen/mocs_compilation.cpp.obj	74a0ba7c4982f941
+2073	13185	7882252612048887	CMakeFiles/Itog.dir/mainwindow.cpp.obj	6ee28706ba92fca7
+13186	14219	7882252723255392	Itog.exe	eec870905514c275
